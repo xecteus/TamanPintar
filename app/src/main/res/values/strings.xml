@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Taman Pintar</string>
+    <string name="homepage_name">WELCOME</string>
+    <string name="profil_sejarah">Sejak terjadinya ledakan perkembangan sains sekitar tahun 90-an, terutama Teknologi Informasi, pada gilirannya telah menghantarkan peradaban manusia menuju era tanpa batas.
+        Perkembangan sains ini adalah sesuatu yang patut disyukuri dan tentunya menjanjikan kemudahan-kemudahan bagi perbaikan kualitas hidup manusia.
+        Menghadapi realitas perkembangan dunia semacam itu, dan wujud kepedulian terhadap pendidikan, maka Pemerintah Kota Yogyakarta menggagas sebuah ide untuk Pembangunan “Taman Pintar”.
+        Disebut “Taman Pintar”, karena di kawasan ini nantinya para siswa, mulai pra sekolah sampai sekolah menengah bisa dengan leluasa memperdalam pemahaman soal materi-materi pelajaran yang telah diterima
+        di sekolah dan sekaligus berekreasi.  Dengan Target Pembangunan Taman Pintar adalah memperkenalkan science kepada siswa mulai dari dini, harapan lebih luas kreatifitas anak didik terus diasah,
+        sehingga bangsa Indonesia tidak hanya menjadi sasaran eksploitasi pasar teknologi belaka, tetapi juga berusaha untuk dapat menciptakan teknologi sendiri.Bangunan Taman Pintar ini dibangun di eks
+        kawasan Shopping Center, dengan pertimbangan tetap adanya keterkaitan yang erat antara Taman Pintar dengan fungsi dan kegiatan bangunan yang ada di sekitarnya, seperti Taman Budaya, Benteng Vredeburg,
+        Societiet Militer dan Gedung Agung. Relokasi area mulai dilakukan pada tahun 2004, dilanjutkan dengan tahapan pembangunan Tahap I adalah Playground dan Gedung PAUD Barat serta PAUD Timur,
+        yang diresmikan dalam Soft Opening I tanggal 20 Mei 2006 oleh Mendiknas, Bambang Soedibyo.
+        Pembangunan Tahap II adalah Gedung Oval lantai I dan II serta Gedung Kotak lantai I, yang diresmikan dalam Soft Opening II tanggal 9 Juni 2007 oleh Mendiknas, Bambang Soedibyo, bersama Menristek,
+        Kusmayanto Kadiman, serta dihadiri oleh Gubernur DIY, Sri Sultan Hamengku Buwono X. Pembangunan Tahap III adalah Gedung Kotak lantai II dan III, Tapak Presiden dan Gedung Memorabilia.
+        Dengan selesainya tahapan pembangunan, Grand Opening Taman Pintar dilaksanakan pada tanggal 16 Desember 2008 yang diresmikan oleh Presiden RI, Susilo Bambang Yudhoyono.</string>
+    <string name="makna_logo">Kembang api adalah simbolisasi dari intelegensi dan imajinasi.
+        \n\nDalam Bahasa JAWA, kembang api menggambarkan MLETHIK = PINTAR = PADHANG MAK BYAAR = PINTAR.
+        \n\nKEMBANG API merupakan sesuatu yang menyenangkan, MENGHIBUR, sesuai dengan VISI TAMAN PINTAR sebagai wahana ekspresi, apresiasi dan kreasi sains dalam suasana yang menyenangkan.
+        \n\nGambar LOGO yang muncul ke luar mengandung makna OUTWARD LOOKING, selalu melihat ke luar untuk terus belajar mengikuti dinamika perubahan di luar dirinya. Gambar LOGO tampak seperti
+        matahari mengandung makna menyinari sepanjang masa. Jari jemari kembang api melambangkan KESELARASAN antara INTELEGENSI dan SOCIAL LIFE, diharapkan pengguna Taman Pintar mempunyai IQ, SQ, dan EQ.
+        Efek PERSPEKTIF adalah simbolisasi “sesuatu yang tinggi”, CITA-CITA, pengharapan bahwa Taman Pintar akan membantu generasi muda Indonesia, khususnya Yogyakarta dalam meraih cita-citanya.
+        Miring ke kanan sebagai visualisasi pergerakan ke arah yang lebih baik. Warna gabungan HIJAU – BIRU melambangkan PERTUMBUHAN TAK TERBATAS.</string>
+    <string name="zona_tek">Zona Teknologi Populer berada di lantai dua gedung oval kotak Taman Pintar Yogyakarta. Sesuai dengan namanya, zona ini menyajikan fitur yang menyesuaikan dengan perkembangan teknologi kekinian, dan didominasi oleh lampu led dan neon glow. Memasuki zona ini, pengunjung bisa mencoba magic step bernuansa baru, yaitu tuts piano yang akan berbunyi jika diinjak. Nada irama akan menyesuaikan dengan tuts yang diinjak. Sementara, pantulan layar monitor menunjukkan pergerakan gambar bunga yang cukup indah dipandang. Wahana sains yang satu ini menggunakan sensor untuk mengekspresikan suatu imajinasi dan seolah-olah memang nyata.
+Adapun peraga andalan yang ditawarkan adalah Virtual Reality (VR), teknologi yang membuat penggunanya dapat berinteraksi dengan suatu lingkungan yang disimulasikan oleh komputer. Di sini, pengunjung bisa merasakan pengalaman visual dalam sebuah lingkungan dengan menggunakan VR headsets. Selanjutnya, pengunjung juga bisa mencoba permainan real play dengan tampilan layar tv led 65 inch dan sistem kontrol gerak kinect. Penggunaan teknologi Kinect akan sangat mengasyikkan karena pengunjung bisa bermain sambil menggerakkan tubuh  seperti layaknya masuk ke dalam game tersebut. Seluruh tampilan pada zona teknologi populer didesain untuk memberikan kesan pengalaman futuristik kepada pengunjungnya.</string>
+    <string name="zona_air">Zona Air Untuk Kebaikan Hidup adalah hasil kerjasama Taman Pintar dengan Pihak PT. Tirta Investama. Di dalam zona ini akan dapat ditemukan berbagai ilmu mengenai air. Diantaranya adalah melalui, Water Diorama yaitu menerangkan bahwa tidak semua air berasal dari lapisan yang sama, Eksperimen Air dan Udara bahwa air dapat mengikuti gelombang suara, Kinect Water Sport mengenai petualangan bersama Kupa dan kawan-kawan, Cinema 4D merupakan perjalanan siklus air dalam teater 4D, Roket Air yaitu eksperimen dengan roket air dan fakta menarik tentang sifat air dan tekanan udara, serta Kalkulator Hidrasi yaitu mengenai kalkulasi air di dalam tubuh</string>
+    <string name="zona_ilusi">Perhatikan layar monitor dengan seksama!
+        \nApakah yang anda lihat?
+        \nBacalah petunjuk pada bagian atas gambar.
+        \nKeterangan ilusi mata dapat anda lihat di bagian bawah gambar.
+        \n\nIlusi optis adalah ilusi yang terjadi karena kesalahan penangkapan mata manusia.
+        \n\nIlusi fisiologis
+        \nIlusi fisiologis adalah kesan gambar yang terjadi setelah melihat cahaya yang sangat terang atau
+        melihat pola gambar tertentu dalam waktu lama. Ini diduga merupakan efek yang terjadi pada
+        mata atau otak setelah mendapat rangsangan tertentu secara berlebihan.
+        Ilusi kognitif
+        Ilusi kognitif diasumsikan terjadi karena anggapan pikiran terhadap sesuatu di luar gambar itu
+        sendiri.</string>
+    <string name="zona_iklim">Zona Cuaca, Iklim dan Gempa Bumi, merupakan Zona baru yang hadir diTaman Pintar Yogyakarta, didalam Zona ini terdapat Simulator gempa yang sudah terkomputerisasi sehingga dapat
+        menghadirkan guncangan gempa bumi dengan tingkatan skala menyerupai aslinya. Simulasi menggunakan 10 data gempa bumi yang terjadi di Indonesia, salah satunya gempa Yogya 27 Mei 2006.
+        Selain itu, di Zona cuaca, iklim dan gempa bumi juga terdapat desiminasi informasi gempa bumi dan tsunami, ICT Pembelajaran Cuaca, ICT Pembelajaran Iklim, ICT Pembelajaran Gempa Bumi serta
+        ICT informasi online BMKG yang dapat memberikan informasi mengenai kondisi cuaca, iklim dan data gempa bumi secara real time kepada pengunjung.</string>
+    <string name="zona_purba">Salah satu kehidupan purba yang ditampilkan adalah binatang purba yang hidup sekitar 250 juta tahun yang lalu yaitu Dinosaurus.  Dinosaurus adalah binatang purba yang sangat besar.
+        \n\nDinosaurus berasal dari dua kata, yaitu : Dino = kadal, Saurus = menakutkan, kejam dan buas.  Jenis dinosaurus yang ditampilkan di zona ini adalah T-Rex atau Tyrannosaurus dan Kentrosaurus yang yang ditampilkan dengan ukuran sangat besar dan salah satunya dilengkapi dengan teknologi robotic.
+        \n\nDengan teknologi robotic alat peraga ini dapat bergerak pada leher dan kepala dengan gerak putar 30 derajat sembari mulut membuka dan menutup dan mengeluarkan suara. Rangkaian gerakan ini secara otomatis akan berulang setiap 2 menit sekali. Untuk meningkatkan pemahaman ilmu tentang kehidupan purba, alat peraga ini dilengkapi dengan signage dan ICT sehingga pengunjung dapat belajar secara interaktif dan menyenangkan. Manusia Purba, Kehidupan purba lain yang ditampilkan adalah manusia purba.
+        \n\nSejarah penemuan fosil manusia purba dan beberapa teori yang ada tentang kehidupan manusia di masa lalu seperti Teori Perkembangan Evolusi Antar Waktu Arkeologi Biologi ditampilkan dalam suatu ICT. Beberapa karakteristik dari manusia purba seperti Meganthropus Palaeojavanicus dan Pithecanthropus Erectus serta manusia modern seperti manusia Neandertal dan manusia Swanscombe ditampilkan. Selain itu zona ini dilengkapi dengan beberapa replika manusia purba.</string>
+    <string name="zona_dome">Whimshurst Machine
+        \nMesin Whimshurst Machine adalah resin pembangkit listrik ståtis yng menggunakan induksi elektrostatis  untuk melipat gandakan secara terus menerus. Mesin ini dapat membangkitkan tegängan listrik ståtis +- 120 kilovolt.
+        \nAlat ini dioperasikan dengan tangan, tidak diperlukan daya listrik.
+        \n\nWhimshurst Machine
+        \n\Whimshurst Machine is statics  power plants which use electrostatics induction to multiply the burden contously. This machine can can produce statics power plants +- 120 kilovolt.
+        \nIt is can be operated by hands and no need electrical power.
+        \n\nRel Udara (Air Track)
+        \nAlat peraga dengan gaya gesek yang sangat kecil. Udara yang dipompakan ke dalam rel dan keluar melklui lubang-lubang keil di sepanjang permukaan rel, sehingga terbentuklah lapisan udara tipis di antara rel dan keert yang membuat kereta mengambang. Hal inslag yang memungkinkan kereta bergerak lurus dengan  gaya gesek sangat kecil yang vampier mendekati nol.
+        \n\nAir Track
+        \nIt is  an equipment which has tiny force friction.The air that pressurized is pumped into the rail and go out through small holes along the rail surface. It causes thin air layers between the rail and the train that makes it float. This thing allows the  train move straight with the tiny force friction that almost approach zero point.</string>
+    <string name="zona_surya">Zona Tata Surya adalah tempat dimana para pengunjung dapat melihat dan belajar tentang tata surya. Display tentang planet dan semesta tertempel pada zona yang terletak di lantai 2 ini. Zona ini juga telah dilengkapi dengan ICT sehingga pengunjung dapat “berpetualang” ke sebuah planet dalam sistem tata surya dan menggali pengetahuan tentang planet yang dikunjungi.</string>
+    <string name="zona_batik">Rumah batik merupakan zona dimana anak-anak dapat mengenal warisan berharga Bangsa Indonesia khususnya tentang batik. Di zona ini pengunjung dan anak-anak dapat mempraktekkan membuat selembar kain batik mulai dari melukis kerangka desain, ngisen-ngiseni, nembo, mewarnai dan nglorot. Dalam waktu singkat pengunjung memperoleh selembar kain batik yang cantik.</string>
+    <string name="zona_kgerabah">Kreasi gerabah merupakan zona dimana pengunjung dapat merasakan membuat kreasi yang berbahan dasar tanah liat atau yang biasa disebut dengan (gerabah). Disini pengunjung bisa membuat macam-macam bentuk mulai dari vas, asbak, dan lain-lain sesuai keinginan pengunjung. pengunjung bisa membawa pulang hasil kreasi gerabah untuk menjadi kenang-kenangan.</string>
+    <string name="zona_gerabah">Lukis gerabah merupakan seni lukis yang menggunakan media gerabah. Di zona ini pengunjung akan disediakan gerabah dan perwarna untuk melukis gerabah. hasil dari melukis gerabah bisa pengunjung bawa pulang sebagai pajangan dirumah atau cinderamata.</string>
+    <string name="zona_kaos">Lukis kaos merupakan salah satu zona yang ada dikampung kerajinan, di zona ini pengunjung bisa merasakan bagaimana melukis diatas kaos. pengunjung bisa mendesain, menggambar, dan mewarnai sendiri kaos seseuai dengan keinginan dan kreatifitas. Kaos yang telah kering bisa pengunjung bawa pulang untuk dipakai.</string>
+</resources>

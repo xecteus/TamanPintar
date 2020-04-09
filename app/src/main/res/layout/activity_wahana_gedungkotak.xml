@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activity_profil">
+
+    <Button
+        android:id="@+id/bTeknologi"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="  ZONA TEKNOLOGI POPULER"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:gravity="left|center"
+        android:background="@drawable/my_button_bg_profil"/>
+
+    <Button
+        android:id="@+id/bNuklir"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="  ZONA NUKLIR"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:gravity="left|center"
+        android:background="@drawable/my_button_bg_profil"/>
+
+    <Button
+        android:id="@+id/bAir"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="  ZONA AIR UNTUK KEBAIKAN HIDUP"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:gravity="left|center"
+        android:background="@drawable/my_button_bg_profil"/>
+
+    <Button
+        android:id="@+id/bIlusi"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="  LORONG ILUSI"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:gravity="left|center"
+        android:background="@drawable/my_button_bg_profil"/>
+</LinearLayout>

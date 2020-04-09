@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activity_profil_sejarah">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/wahana_gk_zonatek"
+        android:layout_margin="15dp"
+        android:scaleType="fitCenter"
+        android:adjustViewBounds="true"/>
+
+    <TextView
+        android:id="@+id/imgzonatek"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ZONA TEKNOLOGI POPULER"
+        android:layout_gravity="center"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="15dp"
+        android:layout_marginHorizontal="15dp"
+        android:layout_marginBottom="5dp"
+        android:scrollbars="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:justificationMode="none"
+            android:gravity="center"
+            android:text="Zona Nuklir memperkenalkan  manfaat  nuklir  di berbagai  bidang.  Di  zona  ini pengunjung dapat mengetahui  sisi  positif  dari teknologi  nuklir sehingga masyarakat tidak  beranggapan  bahwa nuklir  berbahaya.Alat  peraga  yang  interaktif lebih  dapat  membantu  masyarakat  dalam mempelajari teknologi nuklir."
+            android:textColor="@android:color/black"/>
+
+    </ScrollView>
+</LinearLayout>

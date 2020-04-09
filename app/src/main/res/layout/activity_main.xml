@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/frontLogo"
+        android:layout_width="match_parent"
+        android:layout_height="249dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/logotamanpintar" />
+
+    <Button
+        android:id="@+id/bProfil"
+        android:layout_width="130dp"
+        android:layout_height="120dp"
+        android:layout_below="@id/frontLogo"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/my_button_bg"
+        android:drawableTop="@drawable/ic_store_green_70dp"
+        android:padding="15dp"
+        android:layout_marginLeft="50dp"
+        android:text="Profil" />
+
+    <Button
+        android:id="@+id/bWahana"
+        android:layout_width="130dp"
+        android:layout_height="120dp"
+        android:layout_toRightOf="@id/bProfil"
+        android:layout_below="@id/frontLogo"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/my_button_bg"
+        android:drawableTop="@drawable/wahana"
+        android:padding="15dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginLeft="50dp"
+        android:text="Wahana" />
+
+    <Button
+        android:id="@+id/bTiket"
+        android:layout_width="130dp"
+        android:layout_height="120dp"
+        android:layout_below="@id/bProfil"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/my_button_bg"
+        android:drawableTop="@drawable/ic_local_activity_blue_70dp"
+        android:padding="15dp"
+        android:layout_marginRight="50dp"
+        android:layout_marginLeft="50dp"
+        android:text="Harga Tiket" />
+
+
+</RelativeLayout>
