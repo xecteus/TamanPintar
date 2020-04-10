@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/slide_relativelayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/img_slider"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="117dp"
+        android:layout_marginLeft="117dp"
+        android:layout_marginTop="82dp"
+        app:srcCompat="@drawable/pintar_icon" />
+
+    <TextView
+        android:id="@+id/slide_heading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/img_slider"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="289dp"
+        android:text="HEADING"
+        android:textColor="#FFFFFF"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/slide_desc"
+        android:layout_width="wrap_content"
+        android:layout_height="169dp"
+        android:layout_below="@id/slide_heading"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="17dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="47dp"
+        android:layout_marginEnd="23dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="68dp"
+        android:gravity="center|center_horizontal"
+        android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis porttitor nunc vel sagittis vulputate. Etiam nec ligula eget nisl sagittis aliquet. Maecenas quis enim at magna faucibus luctus. Donec ut porta lacus. In a consequat justo. Duis congue odio id rutrum ornare."
+        android:textColor="#D8D8D8"
+        android:textSize="16sp" />
+</RelativeLayout>

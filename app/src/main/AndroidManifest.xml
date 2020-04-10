@@ -9,18 +9,25 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".SliderView"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
         <activity
             android:name=".activity_wahana_kk_gerabah"
-            android:parentActivityName=".activity_wahana_kampungkerajinan"></activity>
+            android:parentActivityName=".activity_wahana_kampungkerajinan" />
         <activity
             android:name=".activity_wahana_kk_lukiskaos"
-            android:parentActivityName=".activity_wahana_kampungkerajinan"/>
+            android:parentActivityName=".activity_wahana_kampungkerajinan" />
         <activity
             android:name=".activity_wahana_kk_kgerabah"
-            android:parentActivityName=".activity_wahana_kampungkerajinan"/>
+            android:parentActivityName=".activity_wahana_kampungkerajinan" />
         <activity
             android:name=".activity_wahana_kk_batik"
-            android:parentActivityName=".activity_wahana_kampungkerajinan"/>
+            android:parentActivityName=".activity_wahana_kampungkerajinan" />
         <activity
             android:name=".activity_wahana_go_surya"
             android:parentActivityName=".activity_wahana_gedungoval" />
@@ -76,11 +83,6 @@
             android:name=".activity_profil"
             android:parentActivityName=".MainActivity" />
         <activity android:name=".MainActivity">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
     </application>
 
